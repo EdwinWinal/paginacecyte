@@ -1,0 +1,62 @@
+
+body{
+	background: url(https://www.esan.edu.pe/apuntes-empresariales/2020/04/02/1500x844_imagen5.jpg) #CCC no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+  }
+
+.centrado {
+	background: #BBBBBB;
+border-radius: 20px;
+	height: 920px;
+	margin: 2rem auto;
+	text-align: left;
+	width: 550px;   }
+h1{
+
+text-align: center;
+color: #FCDB00;
+font-family: impact;
+font-size: 40px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #FFFFFF;
+
+-webkit-text-stroke: 2px black;  
+}
+
+
+.texto1{
+
+
+font-family: Montserrat;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #1b2738;
+     
+}
+.img1{
+	display:block;
+margin:auto;
+}
+.vinetas  {  
+font-family: Montserrat;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #1b2738;
+}
+.boton1{
+	
+color: white;
+background:#BBBBBB;
+font-family: impact;
+font-size: 40px;
+letter-spacing: 5px;
+text-shadow: -2px -2px 0px #cc0000, 2px -2px 0px #cc0000, -2px 2px 0px #cc0000, 2px 2px 0px #cc0000;
+
+}
+
